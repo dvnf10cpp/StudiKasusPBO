@@ -4,7 +4,8 @@
 
 Untuk studi kasus, bisa dilihat pada file perpustkaan, trainreservation dan cinemareservation <br>
 Setiap studi kasus setidaknya menerapkan konsep enkapsulasi dan inheritance <br>
-Untuk implementasi lebih detailnya, bisa dilihat pada file masing-masing
+Penerapan use-a, has-a agregasi merupakan nilai bonus. <br>
+Untuk implementasi lebih detailnya, bisa dilihat pada file masing-masing.
 
 ## Code Convention
 
