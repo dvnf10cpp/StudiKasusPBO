@@ -6,6 +6,7 @@ Untuk studi kasus, bisa dilihat pada file perpustkaan, trainreservation dan cine
 Setiap studi kasus setidaknya menerapkan konsep enkapsulasi dan inheritance <br>
 Penerapan use-a, has-a agregasi merupakan nilai bonus. <br>
 Untuk implementasi lebih detailnya, bisa dilihat pada file masing-masing.
+<br>
 Referensi : 
 1. https://github.com/devanfer02/Swalayan-Tiny
 2. https://github.com/devanfer02/Perpustakaan
