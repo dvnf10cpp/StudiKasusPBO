@@ -11,6 +11,8 @@ Referensi :
 2. https://github.com/devanfer02/Perpustakaan
 3. https://github.com/devanfer02/Object-Orriented-Lesson
 4. https://github.com/devanfer02/CRUD-OOP-Java
+
+Kode java bisa dimodif pada masing-masing kasus selama syarat pada masing-masing studi kasus terpenuhi
 ## Code Convention
 
 Panduan kode supaya kode memiliki struktur yang rapih dan struktur directory / folder yang rapih
