@@ -3,10 +3,8 @@
 Buatlah sebuah sistem reservasi kereta dengan kriteria berikut : 
 <br>
 Note : 
-1. Gunakan ArrayList<> untuk memudahkan penyimpanan data pada database class
-<br>
-Lebih lengkapnya bisa dilihat pada : https://www.geeksforgeeks.org/arraylist-in-java/
-2. Inspirasi ini lebih jelasnya terambil dari aplikasi KAI Access
+1. Gunakan ArrayList<> untuk memudahkan penyimpanan data pada database class. Lebih lengkapnya bisa dilihat pada : https://www.geeksforgeeks.org/arraylist-in-java/
+2. Inspirasi ini lebih jelasnya terambil dari aplikasi KAI Access. Bisa dilihat aplikasinya
 
 ### Ketika saya adalah user 
 1. Saya bisa melakukan proses authentikasi (login/registrasi)
