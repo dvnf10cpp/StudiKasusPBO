@@ -33,3 +33,6 @@ user melakukan sesuatu (Membeli, Meminjam, TopUp, Kena ban oleh admin)
 5. (Bonus) Saya juga bisa menyimpan hasil buku yang telah ditambahkan admin dari array ke books.txt
 6. (Bonus) Saya juga bisa membaca semua informasi yang ada pada books.txt dan <br>
 mengkonversi data tersebut ke dalam array object
+
+### App Class
+1. Saya yang mengatur bagaimana aplikasi berjalan

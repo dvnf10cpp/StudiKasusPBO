@@ -11,6 +11,12 @@ Untuk implementasi lebih detailnya, bisa dilihat pada file masing-masing.
 
 Panduan kode supaya kode memiliki struktur yang rapih dan struktur directory / folder yang rapih
 
+### Membuat project java
+1. Pada vscode kalian, tekan ctrl+shift+p
+2. Ketikkan command ```Create Java project``
+3. Pilih folder tempat java project kalian
+4. Beri nama projectnya dan selesai
+
 ### Gaya Kode
 1. Tanda curly braces `{}` harus selalu baris baru supaya lebih rapi.
 Contoh : 
