@@ -35,5 +35,12 @@ mengkonversi data tersebut ke dalam array object
 ### Food class
 1. Saya merupakan objek makanan
 
+### Cinema Class
+1. Saya merupakan objek studio bioskop
+2. Saya bisa menampilkan tempat duduk layaknya seperti pada bioskop
+3. Jika kursi sudah dibeli, maka tanda tempat duduk diganti menjadi X
+4. Saya sendiri memiliki banyak tipe
+5. Saya memiliki detail mengenai film yang ditayang serta tampilan kursi dan jumlah kursi
+
 ### App Class
 1. Saya yang mengatur arah dan bagaimana app berjalan
