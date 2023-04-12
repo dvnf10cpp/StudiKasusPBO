@@ -3,9 +3,7 @@
 Buatlah sebuah sistem perpustakaan dengan kriteria berikut : 
 <br>
 Note : 
-1. Gunakan ArrayList<> untuk memudahkan penyimpanan data pada database class
-<br>
-Lebih lengkapnya bisa dilihat pada : https://www.geeksforgeeks.org/arraylist-in-java/
+1. Gunakan ArrayList<> untuk memudahkan penyimpanan data pada database class. Lebih lengkapnya bisa dilihat pada : https://www.geeksforgeeks.org/arraylist-in-java/
 2. Referensi studi kasus diambil dari tugas hackerrank pemdas multidimensi array, link bisa dilihat pada berikut : https://hackerrank.com/contests/array-a-pti-c/challenges
 <br> dan bisa diambil dari bioskop sekitar
 
