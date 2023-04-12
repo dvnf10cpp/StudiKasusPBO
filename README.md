@@ -6,7 +6,11 @@ Untuk studi kasus, bisa dilihat pada file perpustkaan, trainreservation dan cine
 Setiap studi kasus setidaknya menerapkan konsep enkapsulasi dan inheritance <br>
 Penerapan use-a, has-a agregasi merupakan nilai bonus. <br>
 Untuk implementasi lebih detailnya, bisa dilihat pada file masing-masing.
-
+Referensi : 
+1. https://github.com/devanfer02/Swalayan-Tiny
+2. https://github.com/devanfer02/Perpustakaan
+3. https://github.com/devanfer02/Object-Orriented-Lesson
+4. https://github.com/devanfer02/CRUD-OOP-Java
 ## Code Convention
 
 Panduan kode supaya kode memiliki struktur yang rapih dan struktur directory / folder yang rapih

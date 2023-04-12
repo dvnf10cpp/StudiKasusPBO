@@ -6,7 +6,7 @@ Note :
 1. Gunakan ArrayList<> untuk memudahkan penyimpanan data pada database class
 <br>
 Lebih lengkapnya bisa dilihat pada : https://www.geeksforgeeks.org/arraylist-in-java/
-2. Referensi studi kasus diambil dari tugas hackerrank pemdas multidimensi array, link bisa dilihat pada berikut : https://hackerrank.com/contest/array-a-pti-c/challenges
+2. Referensi studi kasus diambil dari tugas hackerrank pemdas multidimensi array, link bisa dilihat pada berikut : https://hackerrank.com/contests/array-a-pti-c/challenges
 <br> dan bisa diambil dari bioskop sekitar
 
 ### Ketika saya adalah user 
