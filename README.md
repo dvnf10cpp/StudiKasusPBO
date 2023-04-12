@@ -29,7 +29,7 @@ public class Student
     }
 }
 ```
-2. nama variabel, dalam parameter maupun blok kode harus jelas dan mendeskripsikan apa itu. 
+2. Nama variabel, dalam parameter maupun blok kode harus jelas dan mendeskripsikan apa itu. 
 Contoh : 
 ```
 Weapon w = new Weapon(); //Salah!
@@ -67,7 +67,8 @@ class App
 class Data
 {
     //Class ini berfungsi cukup untuk menampung data, read and write data
-    Pelanggan[] dataPelanggan = new Pelanggan[100];
+    Pelanggan[] dataPelanggan = new Pelanggan[100]; //static array
+    ArrayList<Pelanggan> dataPelanggan = new ArrayList<>(); //dynamic array
 
     void addData(Pelanggan pelanggan){}
 
@@ -77,31 +78,58 @@ class Data
 
 ## Git Tutorial
 
+Lakukan langkah berikut jika kodenya ingin direview. Batas review hari jumat jam 12.
+
+### Upload kode ke github
+
+#### Melalui web github
+1. Pergi ke github dan jangan lupa untuk membuat akun github
+2. Pergi ke repository kalian dan klik button hijau new.
+3. Berikan nama reponya, set ke public dan click create repository
+4. Pilih link upload an existing file
+5. Upload kode java kalian ke bagian drag file
+6. Jika semua kode sudah diupload, click commit changes
+
+#### Melalui git
+1. Lakukan download file git lewat website berikut : https://git-scm.com/downloads
+2. Setelah didownload, jalankan file yang sudah didownload
+3. Pilih next aja terus hingga instalasi selesai
+4. Buka vscode kalian dan tekan ctrl+shift+p
+5. Ketikkan ``Terminal: Select Default Profil``
+6. Pilih bash sebagai terminal default kalian
+7. Restart vscode dan buka terminal kalian melalui ctrl+backtick
+8. Pergi ke web github dan create new repo, isi nama dan set ke public
+9. Jalankan command berikut di terminal bash kalian : 
+```
+git config --global user.name "NamaKamu"
+git config --global user.email "Email yang kamu tautkan ke github"
+//Langkah kedua diatas hanya lakukan sekali, berikutnya tidak perlu
+git init
+git branch -M main
+git add .
+git commit -m "first commit"
+git remote add origin "yang ada pada quick setup setelah membuat nama repo tanpa tanda kutip"
+git push -u origin main
+```
+
 ### Upload kode yang kalian ubah
-Misal, kalian udah buat atau mengubah kode Hero.java dan kalian ingin menguploadnya kesini supaya bisa aku baca, <br/>
-nah langkah-langkahnya tuh gini : 
-1. Pergi ke folder github ini yang ada file java yang kalian ubah.
-2. Klik file javanya jika sudah ketemu
-3. Cari icon pensil di sekitar bagian kanan layar kalian, pilih edit this file
-4. Copas kodenya dari vscode ke github
-5. Kebawah, terus pada commit change, buat judul singkat tentang apa yang kalian ubah. 
-6. Buat deskripsi singkat apa yang kalian ubah supaya progressnya bisa aku track
-Contoh : 
-<br/>
+Setiap melakukan perubahan dan ingin melakukan update ke github, <br>
+Kalian bisa melakukannya dengan 2 cara.
 
-Awalnya pasti muncul gini :  
+#### Melalui Website
+1. Pergi ke file java yang ingin kalian ubah dari local pc kalian ke github
+2. Jangan lupa untuk melakukan copy paste isi kode file java yang kalian ubah
+3. Pilih edit this file dengan icon pensil
+4. Pencet ctrl+a dan paste kode dari vscode kalian
+5. Setelah selesai, pencet commit changes
 
+#### Melalui git
+1. Jalankan command berikut di bash vscode kalian
 ```
-Commit Changes
-Create Hero.java
-Add an optinal description...
-```
-
-Ganti jadi gini :
-```
-Commit Changes
-Tambahin behavior hero
-pada baris kode 27, aku tambahin behavior giniginigini
+git add . //jika ingin mengupdate semua perubahan yang ada di folder lokal kalian
+git add Manusia.java //jika hanya ingin mengupdate file yang ingin kalian ubah
+git commit -m "update apaaa"
+git push origin main
 ```
 
 ### SEMANGATTTT KLO ADA YG KURANG PAHAM LANGSUNG TANYAIN AJA
