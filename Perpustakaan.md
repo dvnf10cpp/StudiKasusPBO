@@ -4,6 +4,8 @@ Buatlah sebuah sistem perpustakaan dengan kriteria berikut :
 <br>
 Note : 
 1. Gunakan ArrayList<> untuk memudahkan penyimpanan data pada database class
+<br>
+Lebih lengkapnya bisa dilihat pada : https://www.geeksforgeeks.org/arraylist-in-java/
 
 ### Ketika saya adalah user 
 1. Saya bisa melakukan proses authentikasi (login/registrasi)
@@ -11,6 +13,7 @@ Note :
 3. Saya bisa terkena denda jika melewati masa pinjaman
 4. Saya bisa membeli buku menggunakan saldo yang ada di akun saya.
 5. Buku yang saya pinjam dan beli harus masuk ke dalam informasi akun saya
+6. Saya bisa melakuan topup untuk mengisi saldo saya
 
 ### Ketika saya adalah admin
 1. Saya bisa melakukan proses authentikasi admin (login/registrasi admin version)
