@@ -9,9 +9,9 @@ Untuk implementasi lebih detailnya, bisa dilihat pada file masing-masing.
 <br>
 Referensi : 
 1. https://github.com/devanfer02/Swalayan-Tiny
-2. https://github.com/devanfer02/Perpustakaan
+2. https://github.com/dvnf10cpp/Perpustakaan
 3. https://github.com/devanfer02/Object-Orriented-Lesson
-4. https://github.com/devanfer02/CRUD-OOP-Java
+4. https://github.com/dvnf10cpp/CRUD-OOP-Java
 
 Kode java bisa dimodif pada masing-masing kasus selama syarat pada masing-masing studi kasus terpenuhi
 ## Code Convention
